@@ -55,6 +55,7 @@
         "psr/log": "^1.0 || ^2.0 || ^3.0",
         "ramsey/uuid": "^3.7 || ^4.0",
         "ramsey/uuid-doctrine": "^1.4",
+        "sebastian/diff": "^4.0",
         "soyuka/contexts": "dev-main",
         "soyuka/stubs-mongodb": "^1.0",
         "symfony/asset": "^3.4 || ^4.4 || ^5.1 || ^6.0",
